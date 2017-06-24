@@ -1,1 +1,4 @@
 add test for push trigger for jenkins 
+
+add test to check if poll SCM work
+
